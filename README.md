@@ -1,7 +1,7 @@
 # Taller-1-analisis-de-datos
 # Comparte tu pregunta SMART
 
-¿Cómo reducir la incidencia de morosidad en un 20% entre los nuevos clientes durante los próximos 12 meses, y que medidas específicas como el uso de modelos predictivos de riesgo y herramientas de evaluación se implementarán en la etapa de aprobación de créditos para identificar y prevenir a los clientes con alto riesgo de morosidad?
+¿Cómo es el comportamiento de los datos relacionados con los clientes que se encuentran con un proceso de castigo de cartera durante el rango de años 2022 a 2024 y que medidas específicas como el uso de modelos predictivos de riesgo y herramientas de evaluación se pueden implementar en la etapa de aprobación de créditos para identificar y prevenir a los clientes con alto riesgo de morosidad?
 
 # •	Específica: 
 Se enfoca en reducir la incidencia de morosidad entre nuevos clientes.
